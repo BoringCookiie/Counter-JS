@@ -1,0 +1,20 @@
+#CountLabel{
+    font-size: 70px;
+    width: 100%;
+    text-align: center  ;
+    color: rgb(85, 9, 69);
+    font-family: 'Courier New', Courier, monospace;
+}
+.btn{
+    font-size: 15px;
+    padding: 10px 20px;
+    margin: 10px;
+    color: rgb(75, 63, 189);
+    border: 2px solid rgb(75, 68, 136);
+    cursor: pointer;
+    transition: 0.4s;
+}
+.btn:hover{
+    background-color: rgb(75, 68, 136);
+    color: white;
+}
